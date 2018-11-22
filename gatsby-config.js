@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatstrap',
+    title: 'Mulsford',
     description: 'Gatsby starter for bootstrap a blog',
     siteUrl: 'https://gatstrap.netlify.com',
     author: 'jaxx2104',
